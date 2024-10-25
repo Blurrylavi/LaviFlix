@@ -1,0 +1,33 @@
+body {
+    color: rgb(202, 17, 17);
+    background: black;
+    margin: 0px;
+    font-family: "Arima", system-ui;
+}
+
+header {
+    border-bottom: solid 2px rgb(175, 7, 7);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb (202, 17, 17);
+}
+
+section {
+    background: rgb(0, 0, 0)
+    padding-bottom: 20px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+P {
+    font-size: 20px;
+}
